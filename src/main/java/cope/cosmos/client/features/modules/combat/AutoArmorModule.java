@@ -30,6 +30,7 @@ public class AutoArmorModule extends Module {
     }
 
     // **************************** anticheat ****************************
+    / nigga
 
     public static Setting<Boolean> fast = new Setting<>("Fast", false)
             .setDescription("Uses quick switching to switch the armor pieces");
